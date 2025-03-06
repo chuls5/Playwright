@@ -497,3 +497,4 @@ C:\Users\CHuls\OneDrive - GlobalMed Holdings, LLC\Desktop\projects\PlaywrightTes
 C:\Users\CHuls\OneDrive - GlobalMed Holdings, LLC\Desktop\projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.pdb
 C:\Users\CHuls\OneDrive - GlobalMed Holdings, LLC\Desktop\projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.genruntimeconfig.cache
 C:\Users\CHuls\OneDrive - GlobalMed Holdings, LLC\Desktop\projects\PlaywrightTests\obj\Debug\net8.0\ref\PlaywrightTests.dll
+C:\Users\CHuls\OneDrive - GlobalMed Holdings, LLC\Desktop\projects\PlaywrightTests\obj\Debug\net8.0\PlaywrightTests.sourcelink.json
